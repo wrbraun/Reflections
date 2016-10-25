@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+git generates a .git file, which will contain the status information
+I need to do it to generate that file.
+
+The commands I used were
+- git init to create the repository
+- git status to see what is in it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it is an interim location for files
+it allows to select the files to be placed in the repository
